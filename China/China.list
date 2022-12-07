@@ -10,6 +10,7 @@
 # IP6-CIDR: 4
 # USER-AGENT: 31
 # TOTAL: 4203
+HOST,h5.m.taobao.com,DIRECT
 HOST,analytics.strava.com,DIRECT
 HOST,blzddist1-a.akamaihd.net,DIRECT
 HOST,cdn.angruo.com,DIRECT
